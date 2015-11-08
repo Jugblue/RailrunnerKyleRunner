@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movement.cs">
+    <Files>
+      <File FileName="Assets\pillar.cs" Line="29" Column="1" />
+      <File FileName="Assets\slab.cs" Line="27" Column="18" />
+      <File FileName="Assets\movement.cs" Line="51" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
